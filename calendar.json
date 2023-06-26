@@ -437,10 +437,22 @@
         "dimodifikasi": "20221012T190115Z",
         "status": "CONFIRMED"
     },
+    "20230628": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20221012T190115Z",
+        "dimodifikasi": "20221012T190115Z",
+        "status": "CONFIRMED"
+    },
     "20230629": {
         "deskripsi": "Idul Adha (Lebaran Haji)",
         "dibuat": "20220923T171659Z",
         "dimodifikasi": "20220923T171659Z",
+        "status": "CONFIRMED"
+    },
+    "20230630": {
+        "deskripsi": "Cuti Bersama",
+        "dibuat": "20221012T190115Z",
+        "dimodifikasi": "20221012T190115Z",
         "status": "CONFIRMED"
     },
     "20230719": {
